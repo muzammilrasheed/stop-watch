@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(103, 102, 104);
+}
+
+.row{
+    margin-top: 100px;
+
+}
+h6{
+    color: blanchedalmond;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    display:inline-block;
+    padding: 5px;
+
+    
+}
+p{
+    display: inline-block;
+    color: blanchedalmond;
+    font-size: smaller;
+    padding: 0  30px;
+    line-height: 0px;
+}
+h1{
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    width: 90px;
+}
+button{
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(206, 129, 129);
+    font-weight: bold;
+    width: 80px;
+    margin-top: 50px;
+    
+}
+button:hover{
+    background-color: black;
+    color:white;
+
+
+}
